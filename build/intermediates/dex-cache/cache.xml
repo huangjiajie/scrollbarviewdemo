@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/huangjiajie/.android/build-cache/ccd13948a3c82da4adaafae10882361448e14ff1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3b236883e0df6002cabb01ce57d00a5b1e5de610">
+        <dex dex="/Users/huangjiajie/AndroidStudioProjects/scrollBarViewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0482bc48edcab6795942cd607ce6cd1e98a3f080/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huangjiajie/.android/build-cache/b0eea0d44a1ff565b2ad4c6417a2f5c28611f0d7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c1b6ab157e8e12cb08b9ee82bb5e3c5d22632eb3">
+        <dex dex="/Users/huangjiajie/AndroidStudioProjects/scrollBarViewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_332e70ae91f59551123d6252729c5f694d68031a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huangjiajie/AndroidStudioProjects/scrollBarViewDemo/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c323c36ecc68965c4cfb460f7721113d2b61ed03">
+        <dex dex="/Users/huangjiajie/AndroidStudioProjects/scrollBarViewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_c30cbfd9f956c22d119d5e49e8e4fcb9082ebba1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/huangjiajie/AndroidStudioProjects/scrollBarViewDemo/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="65041b50fe3818a0e9d8833a37d60048186c1141">
+        <dex dex="/Users/huangjiajie/AndroidStudioProjects/scrollBarViewDemo/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_ee0e27e5ebf7fa40ea3b4168a07841a611892976/classes.dex" />
+    </item>
+
+</items>

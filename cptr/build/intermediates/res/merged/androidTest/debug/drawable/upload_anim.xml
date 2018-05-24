@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:oneshot="false"
+    tools:ignore="ResourceName">
+    <item
+        android:drawable="@drawable/zhier1"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/zhier2"
+        android:duration="200" />
+
+    <item
+        android:drawable="@drawable/zhier3"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/zhier4"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/zhier5"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/zhier6"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/zhier7"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/zhier8"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/zhier9"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/zhier10"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/zhier11"
+        android:duration="200" />
+    <item
+        android:drawable="@drawable/zhier12"
+        android:duration="200" />
+
+</animation-list>

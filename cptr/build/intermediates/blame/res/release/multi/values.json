@@ -1,0 +1,292 @@
+[
+    {
+        "outputFile": "/Users/huangjiajie/AndroidStudioProjects/scrollBarViewDemo/cptr/build/intermediates/incremental/mergeReleaseResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 934,
+                    "endColumn": 74,
+                    "endOffset": 1004
+                },
+                "from": {
+                    "file": "/Users/huangjiajie/.android/build-cache/c92373aac69cf470ea40d8d24caccdc70aa3eec6/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 558,
+                        "endColumn": 74,
+                        "endOffset": 628
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 1009,
+                    "endColumn": 65,
+                    "endOffset": 1070
+                },
+                "from": {
+                    "file": "/Users/huangjiajie/.android/build-cache/c92373aac69cf470ea40d8d24caccdc70aa3eec6/output/res/values/values.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 861,
+                        "endColumn": 65,
+                        "endOffset": 922
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 1075,
+                    "endColumn": 60,
+                    "endOffset": 1131
+                },
+                "from": {
+                    "file": "/Users/huangjiajie/AndroidStudioProjects/scrollBarViewDemo/cptr/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 60,
+                        "endOffset": 112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 1136,
+                    "endColumn": 52,
+                    "endOffset": 1184
+                },
+                "from": {
+                    "file": "/Users/huangjiajie/AndroidStudioProjects/scrollBarViewDemo/cptr/res/values/strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 591,
+                        "endColumn": 57,
+                        "endOffset": 644
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 1189,
+                    "endColumn": 55,
+                    "endOffset": 1240
+                },
+                "from": {
+                    "file": "/Users/huangjiajie/AndroidStudioProjects/scrollBarViewDemo/cptr/res/values/strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 411,
+                        "endColumn": 60,
+                        "endOffset": 467
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 1245,
+                    "endColumn": 54,
+                    "endOffset": 1295
+                },
+                "from": {
+                    "file": "/Users/huangjiajie/AndroidStudioProjects/scrollBarViewDemo/cptr/res/values/strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 531,
+                        "endColumn": 59,
+                        "endOffset": 586
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1300,
+                    "endColumn": 49,
+                    "endOffset": 1345
+                },
+                "from": {
+                    "file": "/Users/huangjiajie/AndroidStudioProjects/scrollBarViewDemo/cptr/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 117,
+                        "endColumn": 49,
+                        "endOffset": 162
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1350,
+                    "endColumn": 62,
+                    "endOffset": 1408
+                },
+                "from": {
+                    "file": "/Users/huangjiajie/AndroidStudioProjects/scrollBarViewDemo/cptr/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 167,
+                        "endColumn": 62,
+                        "endOffset": 225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1413,
+                    "endColumn": 59,
+                    "endOffset": 1468
+                },
+                "from": {
+                    "file": "/Users/huangjiajie/AndroidStudioProjects/scrollBarViewDemo/cptr/res/values/strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 346,
+                        "endColumn": 59,
+                        "endOffset": 401
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1473,
+                    "endColumn": 54,
+                    "endOffset": 1523
+                },
+                "from": {
+                    "file": "/Users/huangjiajie/AndroidStudioProjects/scrollBarViewDemo/cptr/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 291,
+                        "endColumn": 54,
+                        "endOffset": 341
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1528,
+                    "endColumn": 60,
+                    "endOffset": 1584
+                },
+                "from": {
+                    "file": "/Users/huangjiajie/AndroidStudioProjects/scrollBarViewDemo/cptr/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 230,
+                        "endColumn": 60,
+                        "endOffset": 286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1589,
+                    "endColumn": 53,
+                    "endOffset": 1638
+                },
+                "from": {
+                    "file": "/Users/huangjiajie/AndroidStudioProjects/scrollBarViewDemo/cptr/res/values/strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 472,
+                        "endColumn": 58,
+                        "endOffset": 526
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1643,
+                    "endColumn": 42,
+                    "endOffset": 1681
+                },
+                "from": {
+                    "file": "/Users/huangjiajie/AndroidStudioProjects/scrollBarViewDemo/cptr/res/values/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 748,
+                        "endColumn": 42,
+                        "endOffset": 786
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1686,
+                    "endColumn": 46,
+                    "endOffset": 1728
+                },
+                "from": {
+                    "file": "/Users/huangjiajie/AndroidStudioProjects/scrollBarViewDemo/cptr/res/values/strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 650,
+                        "endColumn": 46,
+                        "endOffset": 692
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1733,
+                    "endColumn": 50,
+                    "endOffset": 1779
+                },
+                "from": {
+                    "file": "/Users/huangjiajie/AndroidStudioProjects/scrollBarViewDemo/cptr/res/values/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 697,
+                        "endColumn": 50,
+                        "endOffset": 743
+                    }
+                }
+            }
+        ]
+    }
+]
